@@ -1,7 +1,10 @@
 ## Visualize: Conventional Commits
 
+[![continuous integration][ci-badge]][ci-workflow]
 [![stability-experimental][stability-experimental-badge]][stability-index]
 
+[ci-badge]: https://github.com/mushegh-smunch/visualize-conventional-commits/actions/workflows/continuous-integration.yml/badge.svg
+[ci-workflow]: https://github.com/mushegh-smunch/visualize-conventional-commits/actions/workflows/continuous-integration.yml
 [stability-experimental-badge]: https://img.shields.io/badge/Stability-experimental-orange.svg
 [stability-index]: https://nodejs.org/api/documentation.html#documentation_stability_index
 
