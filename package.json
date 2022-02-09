@@ -32,6 +32,6 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
-    "type-fest": "^2.9.0"
+    "type-fest": "^2.11.2"
   }
 }
